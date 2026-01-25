@@ -127,20 +127,20 @@ def format_message(record):
 <blockquote>📩 Full Message:</blockquote>
 <pre>{msg}</pre>
 
-Powered by BISI 🌌 
-Support  ❣️Junaid ❤️
+Powered by DIGITAL BYTE 🌌 
+Support  ❣️JOHN SNOW ❤️
 """
 
 
 async def send_to_all_groups(message):
     keyboard = InlineKeyboardMarkup(inline_keyboard=[
         [
-            InlineKeyboardButton(text="📢 Channel", url="https://t.me/MikTvbackup"),
-            InlineKeyboardButton(text="☎️ Numbers", url="https://t.me/MikTvbackup")
+            InlineKeyboardButton(text="📢 Channel", url="https://t.me/+jkki3MY1knAxNGE9"),
+            InlineKeyboardButton(text="☎️ Numbers", url="https://t.me/+0fBTwf4k0nJmZThl")
         ],
         [
-            InlineKeyboardButton(text="👨‍💻 Developer", url="https://t.me/Junaidniz786"),
-            InlineKeyboardButton(text="🚀 YouTube", url="https://youtube.com/@junaidniz786?si=tQFOJbg7aDL5XpG7")
+            InlineKeyboardButton(text="👨‍💻 Developer", url="https://t.me/digital_byte_bot"),
+            InlineKeyboardButton(text="🚀 YouTube", url="https://youtube.com/@johnsnow-k6e?si=tH9xnOPu10U4QWDx")
         ]
     ])
 
