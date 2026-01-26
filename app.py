@@ -10,12 +10,13 @@ BOT_TOKEN = "8588637077:AAHR67gqi4-1wJxkr67zERDRQ4roTpLBqno"
 bot = Bot(token=BOT_TOKEN)
 
 GROUP_IDS = [
-    -1003287310113, 
+    -1003877594101, 
 
 ]
 
 API_URLS = [
     "https://otps.vercel.app/api/tempotps?type=sms",
+    "https://apiotps-theta.vercel.app/api/tempotps?type=sms",
     "https://www.kamibroken.pw/api/sms1?type=sms",
     "https://www.kamibroken.pw/api/sms?type=sms",
     "https://www.junaidniz.pw//api/tempotps?type=sms",
