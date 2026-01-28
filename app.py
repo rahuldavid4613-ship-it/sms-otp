@@ -17,6 +17,7 @@ GROUP_IDS = [
 API_URLS = [
     "https://apiotps-theta.vercel.app/api/tempotps?type=sms",
     "https://otps.vercel.app/api/tempotps?type=sms",
+    "https://apiotps-theta.vercel.app/api/tempotps?type=numbers",
     
 ]
 
